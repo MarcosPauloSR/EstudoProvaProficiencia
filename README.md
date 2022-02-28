@@ -1,7 +1,7 @@
 # EstudoProvaProficiencia
 Projeto para estudar para a prova de proficiência
 
-##Neste projeto utilizo as seguintes ferramentas: 
+## Neste projeto utilizo as seguintes ferramentas: 
  - Recursividade. 
  - Classes abstratas e associações. 
  - Interfaces. 
