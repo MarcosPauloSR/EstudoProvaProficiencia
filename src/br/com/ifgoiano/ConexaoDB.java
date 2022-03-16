@@ -24,6 +24,7 @@ public class ConexaoDB {
 
         } catch (Exception e){
             e.printStackTrace();
+            System.out.println("Banco de Dados indisponível!");
         }
     }
 

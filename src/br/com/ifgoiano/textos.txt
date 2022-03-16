@@ -1,0 +1,12 @@
+O Reflection, em poucas palavras, serve para determinar métodos e atributos que serão utilizados de
+ determinada classe (que você nem conhece) em tempo de execução.
+ Há inúmeras utilidades para esse tipo de tarefa, podemos citar por exemplo a instalação de plugins
+ adicionais ao nosso software desenvolvido.
+
+ Reflection é a capacidade de um programa modificar a sua estrutura ou comportamento em tempo de execução
+
+ É muito utilizado em aplicações que manipulam dados e recursos que podem estar disponíveis em tempo de execução
+ Esse mecanismo é conhecido como plugin
+
+ O reflection permite criar chamadas de métodos e executar ações em tempo de execução sem precisar conhecer
+ as classes envolvidas
